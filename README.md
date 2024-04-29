@@ -55,3 +55,14 @@ Run the simulation and interact with the keypad and LCD screen.
 4. User has three attempts to enter the correct password before the system is blocked for one minute.
 
 ## Screenshots
+
+![Screenshot 2024-04-29 151010](https://github.com/MaiAhmed18/Door-Locker-Security-Systems/assets/60844600/a76c6142-c3f4-4212-8408-ece0766e9e6b)
+
+![2](https://github.com/MaiAhmed18/Door-Locker-Security-Systems/assets/60844600/b31e0b0a-e971-4711-b2c2-0850771f19c1)
+
+![3](https://github.com/MaiAhmed18/Door-Locker-Security-Systems/assets/60844600/cc170163-2914-4c91-95ad-ecda1d0da577)
+
+![4](https://github.com/MaiAhmed18/Door-Locker-Security-Systems/assets/60844600/efee9594-6988-4009-b789-cfab31197c86)
+
+
+
